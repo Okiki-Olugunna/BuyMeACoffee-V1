@@ -16,6 +16,6 @@ To use this, make sure your wallet is connected to the Goerli test network & fun
 
 Preview of the website: 
 
-[ add image ]
+<img src="readme-images/print-screen-of-dapp.png" width="700" >
 
 #### V2 of this project will integrate with Aave to earn interest on the donations, and V3 will give the donors NFTs for being such kind humans 
