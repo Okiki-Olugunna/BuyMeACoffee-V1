@@ -10,4 +10,12 @@
 
 - The frontend of this dapp was built using Next.js 
 
-V2 of this project will integrate with Aave to earn interest on the donations, and V3 will give the donors NFTs for being such kind humans 
+Website: https://buymeacoffee-v1.okikicodes.repl.co/ 
+
+To use this, make sure your wallet is connected to the Goerli test network & funded with goerli eth. If you need to add ETH to your wallet, top up at this faucet: https://goerlifaucet.com/ 
+
+Preview of the website: 
+
+[ add image ]
+
+#### V2 of this project will integrate with Aave to earn interest on the donations, and V3 will give the donors NFTs for being such kind humans 
