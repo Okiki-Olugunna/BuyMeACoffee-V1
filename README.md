@@ -1,9 +1,13 @@
-## Buy Me A Coffe V1
+## Buy Me A Coffee V1
 
-- A simple buy me coffee dapp, which acts as a piggy bank
+- A buy me a coffee dapp, which allows users to send any amount of ETH greater than 0 to the owner of the contract 
 
-- This dapp allows people to send you ETH as a donation, and only the owner can withdraw these donations
+- The owner of the contract can withdraw these donations at any time they wish
 
-Scripts and tests for the smart contract can be found in the relevant folders
+- Scripts and tests for the smart contract can be found in the relevant folders
 
-V2 will integrate with Aave to earn interest on the donations, and V3 will give the donors NFTs for being such kind humans
+- The deployed address of the smart contract can be found here: [0x1E5baaB66B18b2AF7433b13Edf036233d8F35b2f](https://goerli.etherscan.io/address/0x1E5baaB66B18b2AF7433b13Edf036233d8F35b2f) 
+
+- The frontend of this dapp was built using Next.js 
+
+V2 of this project will integrate with Aave to earn interest on the donations, and V3 will give the donors NFTs for being such kind humans 
