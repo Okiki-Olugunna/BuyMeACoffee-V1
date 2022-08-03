@@ -10,9 +10,9 @@
 
 - The frontend of this dapp was built using Next.js 
 
-Website: https://buymeacoffee-v1.okikicodes.repl.co/ 
+<b>Website:</b> https://buymeacoffee-v1.okikicodes.repl.co/ 
 
-To use this, make sure your wallet is connected to the Goerli test network & funded with goerli eth. If you need to add ETH to your wallet, top up at this faucet: https://goerlifaucet.com/ 
+To use this, make sure your wallet is connected to the <b>Goerli test network</b> & funded with goerli eth. If you need to add ETH to your wallet, top up at this faucet: https://goerlifaucet.com/ 
 
 Preview of the website: 
 
